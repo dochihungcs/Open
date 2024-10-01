@@ -1,6 +1,0 @@
-@Open.Driver_HostAddress = http://localhost:5069
-
-GET {{Open.Driver_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
