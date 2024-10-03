@@ -6,4 +6,14 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Folder Include="Features\" />
+      <Folder Include="Infrastructure\Dapper\" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Open.Domain.Shared\Open.Domain.Shared.csproj" />
+      <ProjectReference Include="..\Open.Domain\Open.Domain.csproj" />
+    </ItemGroup>
+
 </Project>

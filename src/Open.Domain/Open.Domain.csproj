@@ -8,7 +8,8 @@
 
     <ItemGroup>
       <Folder Include="Aggregates\ActivityAggregate\" />
-      <Folder Include="SeedWork\" />
+      <Folder Include="SeedWork\ChangeTracking\" />
+      <Folder Include="SeedWork\Enities\Events\" />
     </ItemGroup>
 
 </Project>
