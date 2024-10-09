@@ -1,6 +1,6 @@
 ﻿namespace Open.Domain.SeedWork.Uow;
 
-public class IUnitOfWork
+public interface IUnitOfWork
 {
     
 }
